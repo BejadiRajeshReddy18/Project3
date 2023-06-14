@@ -32,7 +32,7 @@ cd secretsanta-generator
 ./mvnw package
 java -jar target/*.jar
 ```
-You can then access the application here: http://localhost:8080/
+
 
 ![Welcome](https://github.com/NotTheBest/secretsanta-generator/blob/master/preview-images/welcomepage.png?raw=true)
 
